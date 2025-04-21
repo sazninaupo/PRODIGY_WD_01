@@ -1,5 +1,4 @@
 # PRODIGY_WD_01
-Here's a description for your GitHub repository:
 
 ---
 
